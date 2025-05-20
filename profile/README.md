@@ -9,9 +9,15 @@
 
 ## 🌟 项目亮点
 
+**[CVPR 2025]** [Multi-Task Dense Prediction via Mixture of Low-Rank Experts](https://arxiv.org/abs/2403.17749) \
+_Yuti Liu, Shice Liu, Junyuan Gao, Peng-tao Jiang, Hao Zhang, Jinwei Chen, Bo Li \
+[![arXiv](https://img.shields.io/badge/arXiv-2410.06241-b31b1b.svg)](https://arxiv.org/abs/2403.17749)) 
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/YuqiYang213/MLoRE)
+
 | 文章 | 代码 | 发表会议 |
 |------|------|------|
 | [Multi-Task Dense Prediction via Mixture of Low-Rank Experts](https://arxiv.org/abs/2403.17749) | [**MLoRE**](https://github.com/YuqiYang213/MLoRE) | CVPR2024 |
+| [https://ojs.aaai.org/index.php/AAAI/article/view/32613) | [**MLoRE**](https://github.com/YuqiYang213/MLoRE) | CVPR2024 |
 
 ---
 
