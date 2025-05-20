@@ -9,15 +9,43 @@
 
 ## 🌟 项目亮点
 
-**[CVPR 2025]** [Multi-Task Dense Prediction via Mixture of Low-Rank Experts](https://arxiv.org/abs/2403.17749) \
-_Yuti Liu, Shice Liu, Junyuan Gao, Peng-tao Jiang, Hao Zhang, Jinwei Chen, Bo Li \
-[![arXiv](https://img.shields.io/badge/arXiv-2410.06241-b31b1b.svg)](https://arxiv.org/abs/2403.17749)) 
+**[CVPR 2024]** [Multi-Task Dense Prediction via Mixture of Low-Rank Experts](https://arxiv.org/abs/2403.17749) \
+Yuqi Yang, Peng-Tao Jiang, Qibin Hou, Hao Zhang, Jinwei Chen, Bo Li \
+[![arXiv](https://img.shields.io/badge/arXiv-2403.17749-b31b1b.svg)](https://arxiv.org/abs/2403.17749)
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/YuqiYang213/MLoRE)
 
-| 文章 | 代码 | 发表会议 |
-|------|------|------|
-| [Multi-Task Dense Prediction via Mixture of Low-Rank Experts](https://arxiv.org/abs/2403.17749) | [**MLoRE**](https://github.com/YuqiYang213/MLoRE) | CVPR2024 |
-| [https://ojs.aaai.org/index.php/AAAI/article/view/32613) | [**MLoRE**](https://github.com/YuqiYang213/MLoRE) | CVPR2024 |
+**[CVPR 2024]** [Revisiting single image reflection removal in the wild](https://arxiv.org/abs/2311.17320) \
+Yurui Zhu, Xueyang Fu, Peng-Tao Jiang, Hao Zhang, Qibin Sun, Jinwei Chen, Zheng-Jun Zha, Bo Li \
+[![arXiv](https://img.shields.io/badge/arXiv-2311.17320-b31b1b.svg)](https://arxiv.org/abs/2311.17320)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/zhuyr97/Reflection_RemoVal_CVPR2024)
+
+**[AAAI 2025]** [Advancing Comprehensive Aesthetic Insight with Multi-Scale Text-Guided Self-Supervised Learning](https://arxiv.org/abs/2412.11952) \
+Yuti Liu, Shice Liu, Junyuan Gao, Pengtao Jiang, Hao Zhang, Jinwei Chen, Bo Li \
+[![arXiv](https://img.shields.io/badge/arXiv-2412.11952-b31b1b.svg)](https://arxiv.org/abs/2412.11952)
+
+**[AAAI 2025 Oral]** [Boosting Vision State Space Model with Fractal Scanning](https://arxiv.org/abs/2405.14480) \
+Haoke Xiao, Lv Tang, Peng-tao Jiang, Hao Zhang, Jinwei Chen, Bo Li \
+[![arXiv](https://img.shields.io/badge/arXiv-2405.14480-b31b1b.svg)](https://arxiv.org/abs/2405.14480)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/hkxiao/Fractal-Mamba)
+
+**[IJCV 2024]** [Towards Training-Free Open-World Segmentation via Image Prompt Foundation Models](https://arxiv.org/abs/2310.10912) \
+Lv Tang, Peng-Tao Jiang, Hao-Ke Xiao, Bo Li \
+[![arXiv](https://img.shields.io/badge/arXiv-2310.10912-b31b1b.svg)](https://arxiv.org/abs/2310.10912)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/luckybird1994/ipseg)
+
+**[MM 2024]** [Non-uniform Timestep Sampling: Towards Faster Diffusion Model Training](https://dl.acm.org/doi/10.1145/3664647.3680912) \
+Tianyi Zheng, Cong Geng, Peng-Tao Jiang, Ben Wan, Hao Zhang, Jinwei Chen, Jia Wang, Bo Li \
+
+**[MM 2024]** [Chain of visual perception: Harnessing multimodal large language models for zero-shot camouflaged object detection](https://arxiv.org/abs/2311.11273) \
+Lv Tang, Peng-Tao Jiang, Zhihao Shen, Hao Zhang, Jinwei Chen, Bo Li \
+[![arXiv](https://img.shields.io/badge/arXiv-2311.11273-b31b1b.svg)](https://arxiv.org/abs/2311.11273)
+
+**[ECCV 2024]** [Beta-tuned timestep diffusion model](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00328.pdf) \
+Tianyi Zheng, Peng-Tao Jiang, Ben Wan, Hao Zhang, Jinwei Chen, Jia Wang, Bo Li \
+
+
+
+
 
 ---
 
