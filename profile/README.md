@@ -37,7 +37,7 @@ Lv Tang, Peng-Tao Jiang, Hao-Ke Xiao, Bo Li \
 Tianyi Zheng, Cong Geng, Peng-Tao Jiang, Ben Wan, Hao Zhang, Jinwei Chen, Jia Wang, Bo Li 
 
 **[MM 2024]** [Chain of visual perception: Harnessing multimodal large language models for zero-shot camouflaged object detection](https://arxiv.org/abs/2311.11273) \
-Lv Tang, Peng-Tao Jiang, Zhihao Shen, Hao Zhang, Jinwei Chen, Bo Li 
+Lv Tang, Peng-Tao Jiang, Zhihao Shen, Hao Zhang, Jinwei Chen, Bo Li \
 [![arXiv](https://img.shields.io/badge/arXiv-2311.11273-b31b1b.svg)](https://arxiv.org/abs/2311.11273)
 
 **[ECCV 2024]** [Beta-tuned timestep diffusion model](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00328.pdf) \
