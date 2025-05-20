@@ -11,7 +11,7 @@
 
 | 文章 | 代码 | 发表会议 |
 |------|------|------|
-| https://arxiv.org/abs/2403.17749 | [**MLoRE**](https://github.com/YuqiYang213/MLoRE) | CVPR2024 |
+| 多任务密集预测 | https://arxiv.org/abs/2403.17749 | [**MLoRE**](https://github.com/YuqiYang213/MLoRE) | CVPR2024 |
 
 ---
 
