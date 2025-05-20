@@ -9,11 +9,9 @@
 
 ## 🌟 项目亮点
 
-| 项目 | 描述 | 文档 |
+| 文章 | 代码 | 发表会议 |
 |------|------|------|
-| [**FaceDetection-DSFD**](https://github.com/TencentYoutuResearch/FaceDetection-DSFD) | 高精度人脸检测模型 | [📚 使用指南](https://github.com/TencentYoutuResearch/FaceDetection-DSFD/wiki) |
-| [**ActivityNet**](https://github.com/TencentYoutuResearch/ActivityNet) | 视频行为识别框架 | [🎯 快速开始](https://github.com/TencentYoutuResearch/ActivityNet#quick-start) |
-| [**LargeVis**](https://github.com/TencentYoutuResearch/Classification-LargeVis) | 大规模数据可视化工具 | [🔧 示例](https://github.com/TencentYoutuResearch/Classification-LargeVis/tree/main/examples) |
+| https://arxiv.org/abs/2403.17749 | [**MLoRE**](https://github.com/YuqiYang213/MLoRE) | CVPR2024 |
 
 ---
 
