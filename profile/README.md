@@ -31,7 +31,8 @@ Lv Tang, Peng-Tao Jiang, Zhihao Shen, Hao Zhang, Jinwei Chen, Bo Li \
 [![arXiv](https://img.shields.io/badge/arXiv-2311.11273-b31b1b.svg)](https://arxiv.org/abs/2311.11273)
 
 **[ECCV 2024]** [Beta-tuned timestep diffusion model](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00328.pdf) \
-Tianyi Zheng, Peng-Tao Jiang, Ben Wan, Hao Zhang, Jinwei Chen, Jia Wang, Bo Li 
+Tianyi Zheng, Peng-Tao Jiang, Ben Wan, Hao Zhang, Jinwei Chen, Jia Wang, Bo Li \
+[![arXiv](https://img.shields.io/badge/arXiv-2403.17749-b31b1b.svg)](https://eccv.ecva.net/virtual/2024/poster/1430)
 
 **[CVPR 2024]** [Multi-Task Dense Prediction via Mixture of Low-Rank Experts](https://arxiv.org/abs/2403.17749) \
 Yuqi Yang, Peng-Tao Jiang, Qibin Hou, Hao Zhang, Jinwei Chen, Bo Li \
