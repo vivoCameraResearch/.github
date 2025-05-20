@@ -34,14 +34,14 @@ Lv Tang, Peng-Tao Jiang, Hao-Ke Xiao, Bo Li \
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/luckybird1994/ipseg)
 
 **[MM 2024]** [Non-uniform Timestep Sampling: Towards Faster Diffusion Model Training](https://dl.acm.org/doi/10.1145/3664647.3680912) \
-Tianyi Zheng, Cong Geng, Peng-Tao Jiang, Ben Wan, Hao Zhang, Jinwei Chen, Jia Wang, Bo Li \
+Tianyi Zheng, Cong Geng, Peng-Tao Jiang, Ben Wan, Hao Zhang, Jinwei Chen, Jia Wang, Bo Li 
 
 **[MM 2024]** [Chain of visual perception: Harnessing multimodal large language models for zero-shot camouflaged object detection](https://arxiv.org/abs/2311.11273) \
-Lv Tang, Peng-Tao Jiang, Zhihao Shen, Hao Zhang, Jinwei Chen, Bo Li \
+Lv Tang, Peng-Tao Jiang, Zhihao Shen, Hao Zhang, Jinwei Chen, Bo Li 
 [![arXiv](https://img.shields.io/badge/arXiv-2311.11273-b31b1b.svg)](https://arxiv.org/abs/2311.11273)
 
 **[ECCV 2024]** [Beta-tuned timestep diffusion model](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00328.pdf) \
-Tianyi Zheng, Peng-Tao Jiang, Ben Wan, Hao Zhang, Jinwei Chen, Jia Wang, Bo Li \
+Tianyi Zheng, Peng-Tao Jiang, Ben Wan, Hao Zhang, Jinwei Chen, Jia Wang, Bo Li 
 
 
 
