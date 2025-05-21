@@ -31,12 +31,22 @@ Lv Tang, Peng-Tao Jiang, Hao-Ke Xiao, Bo Li \
 [![arXiv](https://img.shields.io/badge/arXiv-2310.10912-b31b1b.svg)](https://arxiv.org/abs/2310.10912)
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/luckybird1994/ipseg)
 
+**[NeurIPS 2024]** [Unsupervised Modality Adaptation with Text-to-Image Diffusion Models for Semantic Segmentation](https://arxiv.org/abs/2410.21708) \
+Ruihao Xia, Yu Liang, Peng-Tao Jiang, Hao Zhang, Bo Li, Yang Tang, Pan Zhou \
+[![arXiv](https://img.shields.io/badge/arXiv-2310.10912-b31b1b.svg)](https://arxiv.org/abs/2410.21708)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/XiaRho/MADM)
+
 **[MM 2024]** [Non-uniform Timestep Sampling: Towards Faster Diffusion Model Training](https://dl.acm.org/doi/10.1145/3664647.3680912) \
 Tianyi Zheng, Cong Geng, Peng-Tao Jiang, Ben Wan, Hao Zhang, Jinwei Chen, Jia Wang, Bo Li 
 
 **[MM 2024]** [Chain of visual perception: Harnessing multimodal large language models for zero-shot camouflaged object detection](https://arxiv.org/abs/2311.11273) \
 Lv Tang, Peng-Tao Jiang, Zhihao Shen, Hao Zhang, Jinwei Chen, Bo Li \
 [![arXiv](https://img.shields.io/badge/arXiv-2311.11273-b31b1b.svg)](https://arxiv.org/abs/2311.11273)
+
+**[ECCV 2024]** [FreeDiff: Progressive Frequency Truncation for Image Editing with Diffusion Models](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00328.pdf) \
+Jinfeng Liu, Lingtong Kong, Bo Li, Zerong Wang, Hong Gu, Jinwei Chen \
+[![arXiv](https://img.shields.io/badge/arXiv-2403.17749-b31b1b.svg)](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00328.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/thermal-dynamics/freediff)
 
 **[ECCV 2024]** [Mono-ViFI: A Unified Learning Framework for Self-supervised Single- and Multi-frame Monocular Depth Estimation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00328.pdf) \
 Jinfeng Liu, Lingtong Kong, Bo Li, Zerong Wang, Hong Gu, Jinwei Chen \
