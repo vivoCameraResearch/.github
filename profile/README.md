@@ -38,6 +38,16 @@ Tianyi Zheng, Cong Geng, Peng-Tao Jiang, Ben Wan, Hao Zhang, Jinwei Chen, Jia Wa
 Lv Tang, Peng-Tao Jiang, Zhihao Shen, Hao Zhang, Jinwei Chen, Bo Li \
 [![arXiv](https://img.shields.io/badge/arXiv-2311.11273-b31b1b.svg)](https://arxiv.org/abs/2311.11273)
 
+**[ECCV 2024]** [Mono-ViFI: A Unified Learning Framework for Self-supervised Single- and Multi-frame Monocular Depth Estimation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00328.pdf) \
+Jinfeng Liu, Lingtong Kong, Bo Li, Zerong Wang, Hong Gu, Jinwei Chen \
+[![arXiv](https://img.shields.io/badge/arXiv-2403.17749-b31b1b.svg)](https://arxiv.org/abs/2407.14126)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/LiuJF1226/Mono-ViFI)
+
+**[ECCV 2024]** [SAFNet: Selective Alignment Fusion Network for Efficient HDR Imaging](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00328.pdf) \
+Lingtong Kong, Bo Li, Yike Xiong, Hao Zhang, Hong Gu, and Jinwei Chen \
+[![arXiv](https://img.shields.io/badge/arXiv-2403.17749-b31b1b.svg)](https://arxiv.org/abs/2407.16308)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/ltkong218/SAFNet)
+
 **[ECCV 2024]** [Beta-tuned timestep diffusion model](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00328.pdf) \
 Tianyi Zheng, Peng-Tao Jiang, Ben Wan, Hao Zhang, Jinwei Chen, Jia Wang, Bo Li \
 [![arXiv](https://img.shields.io/badge/arXiv-2403.17749-b31b1b.svg)](https://eccv.ecva.net/virtual/2024/poster/1430)
