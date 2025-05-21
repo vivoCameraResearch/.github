@@ -8,6 +8,11 @@
 ---
 
 ## 🌟 项目亮点
+**[ICML_2025]** [Learning Adaptive Lighting via Channel-Aware Guidance](https://arxiv.org/abs/2412.01493) \
+Qirui Yang, Peng-Tao Jiang, Hao Zhang, Jinwei Chen, Bo Li, Huanjing Yue, Jingyu Yang \
+[![arXiv](https://img.shields.io/badge/arXiv-2410.10105-b31b1b.svg)](https://arxiv.org/abs/2412.01493)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://xxxxxx2025.github.io/LALNet/)
+
 **[ICLR_2025]** [High-Precision Dichotomous Image Segmentation via Probing Diffusion Capacity](https://arxiv.org/abs/2410.10105) \
 Qian Yu, Peng-Tao Jiang, Hao Zhang, Jinwei Chen, Bo Li, Lihe Zhang, Huchuan Lu \
 [![arXiv](https://img.shields.io/badge/arXiv-2410.10105-b31b1b.svg)](https://arxiv.org/abs/2410.10105)
