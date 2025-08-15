@@ -8,6 +8,22 @@
 ---
 
 ## 🌟 项目亮点
+
+**[ICCV_2025]** [SDMatte: Grafting Diffusion Models for Interactive Matting](https://arxiv.org/abs/2508.00443) \
+Longfei Huang, Yu Liang, Hao Zhang, Jinwei Chen, Wei Dong, Lunde Chen, Wanyu Liu, Bo Li, Peng-Tao Jiang \
+[![arXiv](https://img.shields.io/badge/arXiv-2412.01493-b31b1b.svg)](https://arxiv.org/abs/2508.00443)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/vivoCameraResearch/SDMatte)
+
+**[ICCV_2025]** [MOERL: When Mixture-of-Experts Meet Reinforcement Learning for Adverse Weather Image Restoration]() \
+Tao Wang, Peiwen Xia, Bo Li, Peng-Tao Jiang, Zhe Kong, Kaihao Zhang, Tong Lu, Wenhan Luo \
+[![arXiv](https://img.shields.io/badge/arXiv-2412.01493-b31b1b.svg)]()
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)]()
+
+**[ICCV_2025]** [BokehDiff: Neural Lens Blur with One-Step Diffusion](https://arxiv.org/abs/2507.18060) \
+Chengxuan Zhu, Qingnan Fan, Qi Zhang, Jinwei Chen, Huaqi Zhang, Chao Xu, Boxin Shi \
+[![arXiv](https://img.shields.io/badge/arXiv-2412.01493-b31b1b.svg)](https://arxiv.org/abs/2507.18060)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/FreeButUselessSoul/bokehdiff)
+
 **[ICML_2025]** [Learning Adaptive Lighting via Channel-Aware Guidance](https://arxiv.org/abs/2412.01493) \
 Qirui Yang, Peng-Tao Jiang, Hao Zhang, Jinwei Chen, Bo Li, Huanjing Yue, Jingyu Yang \
 [![arXiv](https://img.shields.io/badge/arXiv-2412.01493-b31b1b.svg)](https://arxiv.org/abs/2412.01493)
