@@ -9,6 +9,21 @@
 
 ## 🌟 项目亮点
 
+**[NeurIPS_2025]** [Photography Perspective Composition: Towards Aesthetic Perspective Recommendation](https://arxiv.org/pdf/2505.20655?) \
+Lujian Yao, Siming Zheng, Xinbin Yuan, Zhuoxuan Cai, Pu Wu, Jinwei Chen, Bo Li, Peng-Tao Jiang  \
+[![arXiv](https://img.shields.io/badge/arXiv-2412.01493-b31b1b.svg)](https://arxiv.org/pdf/2505.20655?)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://vivocameraresearch.github.io/ppc/)
+
+**[NeurIPS_2025]** [Learning Differential Pyramid Representation for Tone Mapping](https://arxiv.org/pdf/2412.01463) \
+Qirui Yang, Yinbo Li, Yihao Liu, Peng-Tao Jiang, Fangpu Zhang, Qihua Cheng, Huanjing Yue, Jingyu Yang  \
+[![arXiv](https://img.shields.io/badge/arXiv-2412.01493-b31b1b.svg)](https://arxiv.org/pdf/2412.01463)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://xxxxxxdprnet.github.io/DPRNet/)
+
+**[NeurIPS_2025]** [SE-GUI: Enhancing Visual Grounding for GUI Agents via Self-Evolutionary Reinforcement Learning](https://openreview.net/pdf?id=IbzDaIDyt6) \
+Xinbin Yuan, Jian Zhang, Kaixin Li, Zhuoxuan Cai, Lujian Yao, Jie Chen, Enguang Wang, Qibin Hou, Jinwei Chen, Peng-Tao Jiang, Bo Li  \
+[![arXiv](https://img.shields.io/badge/arXiv-2412.01493-b31b1b.svg)](https://openreview.net/pdf?id=IbzDaIDyt6)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/YXB-NKU/SE-GUI)
+
 **[ICCV_2025]** [SDMatte: Grafting Diffusion Models for Interactive Matting](https://arxiv.org/abs/2508.00443) \
 Longfei Huang, Yu Liang, Hao Zhang, Jinwei Chen, Wei Dong, Lunde Chen, Wanyu Liu, Bo Li, Peng-Tao Jiang \
 [![arXiv](https://img.shields.io/badge/arXiv-2412.01493-b31b1b.svg)](https://arxiv.org/abs/2508.00443)
