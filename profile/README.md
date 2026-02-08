@@ -9,6 +9,35 @@
 
 ## 🌟 项目亮点
 
+**[ICLR 2026]** [Trust but Verify: Adaptive Conditioning for Reference-Based Diffusion Super-Resolution via Implicit Reference Correlation Modeling](https://arxiv.org/pdf/2602.01864) \
+Yuan Wang, Yuhao Wan, Siming Zheng, Bo Li, Qibin Hou, Peng-Tao Jiang \
+[![arXiv](https://img.shields.io/badge/arXiv-2412.01493-b31b1b.svg)](https://arxiv.org/pdf/2602.01864)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/vivoCameraResearch/AdaRefSR)
+
+**[ICLR 2026]** [LiveMoments: Reselected Key Photo Restoration in Live Photos via Reference-guided Diffusion](https://openreview.net/pdf?id=02mgFnnfqG) \
+[![arXiv](https://img.shields.io/badge/arXiv-2412.01493-b31b1b.svg)](https://openreview.net/pdf?id=02mgFnnfqG)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)]()
+
+**[ICLR 2026]** [Any-to-Bokeh: Arbitrary-Subject Video Refocusing with Video Diffusion Model](https://arxiv.org/pdf/2505.21593) \
+Yang Yang, Siming Zheng, Jinwei Chen, Boxi Wu, Xiaofei He, Deng Cai, Bo Li, Peng-Tao Jiang \
+[![arXiv](https://img.shields.io/badge/arXiv-2412.01493-b31b1b.svg)](https://arxiv.org/pdf/2505.21593)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/vivoCameraResearch/any-to-bokeh)
+
+**[ICLR 2026]** [Mono4DGS-HDR: High Dynamic Range 4D Gaussian Splatting from Alternating-Exposure Monocular Videos](https://arxiv.org/abs/2510.18489) \
+Yuan Wang, Yuhao Wan, Siming Zheng, Bo Li, Qibin Hou, Peng-Tao Jiang \
+[![arXiv](https://img.shields.io/badge/arXiv-2412.01493-b31b1b.svg)](https://arxiv.org/abs/2510.18489)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/LiuJF1226/Mono4DGS-HDR)
+
+**[AAAI 2026 oral]** [Realism Control One-step Diffusion for Real-World Image Super-Resolution](https://arxiv.org/pdf/2509.10122?) \
+Zongliang Wu, Siming Zheng, Peng-Tao Jiang, Xin Yuan \
+[![arXiv](https://img.shields.io/badge/arXiv-2412.01493-b31b1b.svg)](https://arxiv.org/pdf/2509.10122?)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/Zongliang-Wu/RCOD)
+
+**[AAAI 2026 oral]** [Bidirectional Noise Injection: Enhancing Diffusion Models via Coordinated Input-Output Perturbation]() \
+Lujian Yao, Siming Zheng, Xinbin Yuan, Zhuoxuan Cai, Pu Wu, Jinwei Chen, Bo Li, Peng-Tao Jiang  \
+[![arXiv](https://img.shields.io/badge/arXiv-2412.01493-b31b1b.svg)]()
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)]()
+
 **[NeurIPS_2025]** [Photography Perspective Composition: Towards Aesthetic Perspective Recommendation](https://arxiv.org/pdf/2505.20655?) \
 Lujian Yao, Siming Zheng, Xinbin Yuan, Zhuoxuan Cai, Pu Wu, Jinwei Chen, Bo Li, Peng-Tao Jiang  \
 [![arXiv](https://img.shields.io/badge/arXiv-2412.01493-b31b1b.svg)](https://arxiv.org/pdf/2505.20655?)
