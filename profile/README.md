@@ -11,61 +11,61 @@
 
 **[ICLR 2026]** [Trust but Verify: Adaptive Conditioning for Reference-Based Diffusion Super-Resolution via Implicit Reference Correlation Modeling](https://arxiv.org/pdf/2602.01864) \
 Yuan Wang, Yuhao Wan, Siming Zheng, Bo Li, Qibin Hou, Peng-Tao Jiang \
-[![arXiv](https://img.shields.io/badge/arXiv-2412.01493-b31b1b.svg)](https://arxiv.org/pdf/2602.01864)
+[![arXiv](https://img.shields.io/badge/arXiv-2602.01864-b31b1b.svg)](https://arxiv.org/pdf/2602.01864)
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/vivoCameraResearch/AdaRefSR)
 
 **[ICLR 2026]** [LiveMoments: Reselected Key Photo Restoration in Live Photos via Reference-guided Diffusion](https://openreview.net/pdf?id=02mgFnnfqG) \
-[![arXiv](https://img.shields.io/badge/arXiv-2412.01493-b31b1b.svg)](https://openreview.net/pdf?id=02mgFnnfqG)
+[![arXiv](https://img.shields.io/badge/arXiv-xxxxxxxxxx-b31b1b.svg)](https://openreview.net/pdf?id=02mgFnnfqG)
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)]()
 
 **[ICLR 2026]** [Any-to-Bokeh: Arbitrary-Subject Video Refocusing with Video Diffusion Model](https://arxiv.org/pdf/2505.21593) \
 Yang Yang, Siming Zheng, Jinwei Chen, Boxi Wu, Xiaofei He, Deng Cai, Bo Li, Peng-Tao Jiang \
-[![arXiv](https://img.shields.io/badge/arXiv-2412.01493-b31b1b.svg)](https://arxiv.org/pdf/2505.21593)
+[![arXiv](https://img.shields.io/badge/arXiv-2505.21593-b31b1b.svg)](https://arxiv.org/pdf/2505.21593)
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/vivoCameraResearch/any-to-bokeh)
 
 **[ICLR 2026]** [Mono4DGS-HDR: High Dynamic Range 4D Gaussian Splatting from Alternating-Exposure Monocular Videos](https://arxiv.org/abs/2510.18489) \
 Yuan Wang, Yuhao Wan, Siming Zheng, Bo Li, Qibin Hou, Peng-Tao Jiang \
-[![arXiv](https://img.shields.io/badge/arXiv-2412.01493-b31b1b.svg)](https://arxiv.org/abs/2510.18489)
+[![arXiv](https://img.shields.io/badge/arXiv-2510.18489-b31b1b.svg)](https://arxiv.org/abs/2510.18489)
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/LiuJF1226/Mono4DGS-HDR)
 
 **[AAAI 2026 oral]** [Realism Control One-step Diffusion for Real-World Image Super-Resolution](https://arxiv.org/pdf/2509.10122?) \
 Zongliang Wu, Siming Zheng, Peng-Tao Jiang, Xin Yuan \
-[![arXiv](https://img.shields.io/badge/arXiv-2412.01493-b31b1b.svg)](https://arxiv.org/pdf/2509.10122?)
+[![arXiv](https://img.shields.io/badge/arXiv-2509.10122-b31b1b.svg)](https://arxiv.org/pdf/2509.10122?)
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/Zongliang-Wu/RCOD)
 
 **[AAAI 2026 oral]** [Bidirectional Noise Injection: Enhancing Diffusion Models via Coordinated Input-Output Perturbation]() \
 Lujian Yao, Siming Zheng, Xinbin Yuan, Zhuoxuan Cai, Pu Wu, Jinwei Chen, Bo Li, Peng-Tao Jiang  \
-[![arXiv](https://img.shields.io/badge/arXiv-2412.01493-b31b1b.svg)]()
+[![arXiv](https://img.shields.io/badge/arXiv-xxxxxxxxxx-b31b1b.svg)]()
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)]()
 
 **[NeurIPS_2025]** [Photography Perspective Composition: Towards Aesthetic Perspective Recommendation](https://arxiv.org/pdf/2505.20655?) \
 Lujian Yao, Siming Zheng, Xinbin Yuan, Zhuoxuan Cai, Pu Wu, Jinwei Chen, Bo Li, Peng-Tao Jiang  \
-[![arXiv](https://img.shields.io/badge/arXiv-2412.01493-b31b1b.svg)](https://arxiv.org/pdf/2505.20655?)
+[![arXiv](https://img.shields.io/badge/arXiv-2505.20655-b31b1b.svg)](https://arxiv.org/pdf/2505.20655?)
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://vivocameraresearch.github.io/ppc/)
 
 **[NeurIPS_2025]** [Learning Differential Pyramid Representation for Tone Mapping](https://arxiv.org/pdf/2412.01463) \
 Qirui Yang, Yinbo Li, Yihao Liu, Peng-Tao Jiang, Fangpu Zhang, Qihua Cheng, Huanjing Yue, Jingyu Yang  \
-[![arXiv](https://img.shields.io/badge/arXiv-2412.01493-b31b1b.svg)](https://arxiv.org/pdf/2412.01463)
+[![arXiv](https://img.shields.io/badge/arXiv-2412.01463-b31b1b.svg)](https://arxiv.org/pdf/2412.01463)
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://xxxxxxdprnet.github.io/DPRNet/)
 
 **[NeurIPS_2025]** [SE-GUI: Enhancing Visual Grounding for GUI Agents via Self-Evolutionary Reinforcement Learning](https://openreview.net/pdf?id=IbzDaIDyt6) \
 Xinbin Yuan, Jian Zhang, Kaixin Li, Zhuoxuan Cai, Lujian Yao, Jie Chen, Enguang Wang, Qibin Hou, Jinwei Chen, Peng-Tao Jiang, Bo Li  \
-[![arXiv](https://img.shields.io/badge/arXiv-2412.01493-b31b1b.svg)](https://openreview.net/pdf?id=IbzDaIDyt6)
+[![arXiv](https://img.shields.io/badge/arXiv-xxxxxxxxxx-b31b1b.svg)](https://openreview.net/pdf?id=IbzDaIDyt6)
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/YXB-NKU/SE-GUI)
 
 **[ICCV_2025]** [SDMatte: Grafting Diffusion Models for Interactive Matting](https://arxiv.org/abs/2508.00443) \
 Longfei Huang, Yu Liang, Hao Zhang, Jinwei Chen, Wei Dong, Lunde Chen, Wanyu Liu, Bo Li, Peng-Tao Jiang \
-[![arXiv](https://img.shields.io/badge/arXiv-2412.01493-b31b1b.svg)](https://arxiv.org/abs/2508.00443)
+[![arXiv](https://img.shields.io/badge/arXiv-2508.00443-b31b1b.svg)](https://arxiv.org/abs/2508.00443)
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/vivoCameraResearch/SDMatte)
 
 **[ICCV_2025]** [MOERL: When Mixture-of-Experts Meet Reinforcement Learning for Adverse Weather Image Restoration]() \
 Tao Wang, Peiwen Xia, Bo Li, Peng-Tao Jiang, Zhe Kong, Kaihao Zhang, Tong Lu, Wenhan Luo \
-[![arXiv](https://img.shields.io/badge/arXiv-2412.01493-b31b1b.svg)]()
+[![arXiv](https://img.shields.io/badge/arXiv-xxxxxxxxxx-b31b1b.svg)]()
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)]()
 
 **[ICCV_2025]** [BokehDiff: Neural Lens Blur with One-Step Diffusion](https://arxiv.org/abs/2507.18060) \
 Chengxuan Zhu, Qingnan Fan, Qi Zhang, Jinwei Chen, Huaqi Zhang, Chao Xu, Boxin Shi \
-[![arXiv](https://img.shields.io/badge/arXiv-2412.01493-b31b1b.svg)](https://arxiv.org/abs/2507.18060)
+[![arXiv](https://img.shields.io/badge/arXiv-2507.18060-b31b1b.svg)](https://arxiv.org/abs/2507.18060)
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/FreeButUselessSoul/bokehdiff)
 
 **[ICML_2025]** [Learning Adaptive Lighting via Channel-Aware Guidance](https://arxiv.org/abs/2412.01493) \
