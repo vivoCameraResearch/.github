@@ -159,7 +159,7 @@ Bo Li, Haoke Xiao, Lv Tang \
 
 ## 📬 联系我们
 - **邮箱**: {pt.jiang, libra}@vivo.com  
-- **官网**: [vivo Camera Research Lab](https://blueimage.vivo.com/#/research)  
+- **官网**: [vivo BlueImage Lab](https://blueimage.vivo.com/#/research)  
 - **微信公众号**: 敬请期待 (扫码关注)  
 
 ---
