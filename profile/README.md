@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-# 🚀 vivo Camera Research Lab
+# 🚀 vivo BlueImage Lab
 
-**vivo影像算法研究部学术创新实验室**  
+**vivo蓝图影像创新实验室**  
 探索移动影像，计算摄影，内容生成，agent, 大模型等前沿技术。
 
 ---
