@@ -9,6 +9,96 @@
 
 ## 🌟 项目亮点
 
+**[ECCV 2026]** [Anchoring on Reality: Breaking the Pseudo-Target Ceiling in Makeup Transfer](https://arxiv.org/abs/2606.31089) \
+Bo Wei, Xianhui Lin, Yi Dong, Zhongzhong Li, Zonghui Li, Zirui Wang, Jiachen Yang, Xing Liu, Hong Gu, Xiaoming Li, Wangmeng Zuo  \
+[![arXiv](https://img.shields.io/badge/arXiv-2606.31089-b31b1b.svg)](https://arxiv.org/abs/2606.31089)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/csbowei/ART)
+
+**[ECCV 2026]** [Anchor Forcing: Anchor Memory and Tri-Region RoPE for Interactive Streaming Video Diffusion](https://arxiv.org/abs/2603.13405) \
+Yang Yang, Tianyi Zhang, Wei Huang, Jinwei Chen, Boxi Wu, Xiaofei He, Deng Cai, Bo Li, Peng-Tao Jiang  \
+[![arXiv](https://img.shields.io/badge/arXiv-2603.13405-b31b1b.svg)](https://arxiv.org/abs/2603.13405)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/vivoCameraResearch/Anchor-Forcing)
+
+**[ECCV 2026]** [JSON: Jigsaw Self-play Optimization for Normalizing Flows]() \
+Fengxiang Yang, Tianyi Zheng, Jinwei Chen, Bo Li  \
+[![arXiv](https://img.shields.io/badge/arXiv-xxxxxxxxxx-b31b1b.svg)]()
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)]()
+
+**[ECCV 2026 oral]** [EditHF-1M: A Million-Scale Rich Human Preference Feedback for Image Editing](https://arxiv.org/abs/2603.14916) \
+Zitong Xu, Huiyu Duan, Zhongpeng Ji, Xinyun Zhang, Yutao Liu, Xiongkuo Min, Ke Gu, Jian Zhang, Shusong Xu, Jinwei Chen, Bo Li, Guangtao Zhai  \
+[![arXiv](https://img.shields.io/badge/arXiv-2603.14916-b31b1b.svg)](https://arxiv.org/abs/2603.14916)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/IntMeGroup/EditHF)
+
+**[ECCV 2026]** [GR-GRPO: Graph-Diffused Credit for Autoregressive Image RL Alignment](https://github.com/vivoCameraResearch/GR-GRPO) \
+Zheyu Zhang, Peng-Tao Jiang, Tianyi Zheng, Jian Zhang, Jinwei Chen, Bo Li  \
+[![arXiv](https://img.shields.io/badge/arXiv-xxxxxxxxxx-b31b1b.svg)]()
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/vivoCameraResearch/GR-GRPO)
+
+**[ECCV 2026]** [MagicMakeup: A Region-Controllable Diffusion Transformer for High-Fidelity Makeup-Transfer](https://arxiv.org/abs/2607.20924) \
+Ziyi Wang, Siming Zheng, Yang Yang, Shusong Xu, Hao Zhang, Bo Li, Changqing Zou, Peng-Tao Jiang  \
+[![arXiv](https://img.shields.io/badge/arXiv-2607.20924-b31b1b.svg)](https://arxiv.org/abs/2607.20924)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/vivoCameraResearch/Magic-Makeup)
+
+**[ECCV 2026]** [Fair and Faithful: A Diffusion-Enhanced Dataset and Hybrid State-Space Mamba for Face Super-Resolution]() \
+Tao Wang, Peiwen Xia, Bowen Tang, Jinwei Chen, Kaihao Zhang, Bo Li  \
+[![arXiv](https://img.shields.io/badge/arXiv-xxxxxxxxxx-b31b1b.svg)]()
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)]()
+
+**[ECCV 2026]** [ID-PreFeR: ID-Preserving Face Restoration with Mixed Data Quality]() \
+Chengxuan Zhu, Yuchen Hong, Qi Zhang, Bingtao Fu, Jinxiu Liang, Jinwei Chen, Huaqi Zhang, Chao Xu, Boxin Shi, Qingnan Fan  \
+[![arXiv](https://img.shields.io/badge/arXiv-xxxxxxxxxx-b31b1b.svg)]()
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)]()
+
+**[ECCV 2026]** [WildSplat: Feedforward Gaussian Splatting from Unposed In-the-Wild Images](https://arxiv.org/abs/2607.05347) \
+Xiyu Zhang, Jingyu Zhuang, Hongjia Zhai, Zizheng Yan, Jinwei Chen, Guofeng Zhang, Qingnan Fan  \
+[![arXiv](https://img.shields.io/badge/arXiv-2607.05347-b31b1b.svg)](https://arxiv.org/abs/2607.05347)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)]()
+
+**[ECCV 2026]** [InstantRetouch: Personalized Image Retouching without Test-time Fine-tuning](https://arxiv.org/abs/2602.17044) \
+Temesgen Muruts Weldengus, Binnan Liu, Fei Kou, Youwei Lyu, Jinwei Chen, Qingnan Fan, Changqing Zou  \
+[![arXiv](https://img.shields.io/badge/arXiv-2602.17044-b31b1b.svg)](https://arxiv.org/abs/2602.17044)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)]()
+
+**[ECCV 2026]** [ReInGS: Re-Initializing 3D Gaussians against Sparsity Discrepancy in Few-Shot Novel View Synthesis]() \
+Jun'ao Shen, Tian Feng, Haojie Dong, Jinkang Ji, Tianjia Shao  \
+[![arXiv](https://img.shields.io/badge/arXiv-xxxxxxxxxx-b31b1b.svg)]()
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)]()
+
+**[ICML 2026]** [B-Spar: Bayesian Sparse-Reward Modeling for RL-based Image Editing](https://github.com/chan2lucky/B-Spar) \
+Shusong Xu, Peiye Liu, Yongbin Liu, Bangjie Yin, Zhaomang Sun, Zhenyu Chen, Tianyi Zheng, Peng-Tao Jiang, Jian Zhang, Yuzhao Wang, Jinwei Chen, Zhen Gu, Bo Li  \\
+[![arXiv](https://img.shields.io/badge/arXiv-xxxxxxxxxx-b31b1b.svg)]()
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/chan2lucky/B-Spar)
+
+**[CVPR 2026 oral]** [Towards Photorealistic and Efficient Bokeh Rendering via Diffusion Framework](https://arxiv.org/abs/2605.07429) \
+Linxiao Shi, Siming Zheng, Zerong Wang, Hao Zhang, Jinwei Chen, Bo Li, Shifeng Chen, Peng-Tao Jiang  \
+[![arXiv](https://img.shields.io/badge/arXiv-2605.07429-b31b1b.svg)](https://arxiv.org/abs/2605.07429)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/vivoCameraResearch/MagicBokeh)
+
+**[CVPR 2026 highlight]** [C$^2$FG: Control Classifier-Free Guidance via Score Discrepancy Analysis](https://arxiv.org/abs/2603.08155) \
+Jiayang Gao, Tianyi Zheng, Jiayang Zou, Fengxiang Yang, Shice Liu, Luyao Fan, Zheyu Zhang, Hao Zhang, Jinwei Chen, Peng-Tao Jiang, Bo Li, Jia Wang  \
+[![arXiv](https://img.shields.io/badge/arXiv-2603.08155-b31b1b.svg)](https://arxiv.org/abs/2603.08155)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)]()
+
+**[CVPR 2026]** [Time-Aware One Step Diffusion Network for Real-World Image Super-Resolution](https://arxiv.org/abs/2508.16557) \
+Tianyi Zhang, Zheng-Peng Duan, Peng-Tao Jiang, Bo Li, Ming-Ming Cheng, Chun-Le Guo, Chongyi Li  \
+[![arXiv](https://img.shields.io/badge/arXiv-2508.16557-b31b1b.svg)](https://arxiv.org/abs/2508.16557)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/zty557/TADSR)
+
+**[CVPR 2026]** [Restore Text First, Enhance Image Later: Two-Stage Scene Text Image Super-Resolution with Glyph Structure Guidance](https://arxiv.org/abs/2510.21590) \
+Minxing Luo, Linlong Fan, Wang Qiushi, Ge Wu, Yiyan Luo, Yuhang Yu, Jinwei Chen, Yaxing Wang, Qingnan Fan, Jian Yang  \
+[![arXiv](https://img.shields.io/badge/arXiv-2510.21590-b31b1b.svg)](https://arxiv.org/abs/2510.21590)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/OpenVeraTeam/TiGeSR)
+
+**[CVPR 2026 highlight]** [BeautyGRPO: Aesthetic Alignment for Face Retouching via Dynamic Path Guidance and Fine-Grained Preference Modeling](https://arxiv.org/abs/2603.01163) \
+Jiachen Yang, Xianhui Lin, Yi Dong, Zebiao Zheng, Xing Liu, Hong Gu, Yanmei Fang  \
+[![arXiv](https://img.shields.io/badge/arXiv-2603.01163-b31b1b.svg)](https://arxiv.org/abs/2603.01163)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/vivoCameraResearch/BeautyGRPO)
+
+**[CVPR 2026 findings]** [TinySR: Pruning Diffusion for Real-World Image Super-Resolution](https://arxiv.org/abs/2508.17434) \
+Linwei Dong, Qingnan Fan, Yuhang Yu, Qi Zhang, Jinwei Chen, Yawei Luo, Changqing Zou  \
+[![arXiv](https://img.shields.io/badge/arXiv-2508.17434-b31b1b.svg)](https://arxiv.org/abs/2508.17434)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)]()
+
 **[ICLR 2026]** [Trust but Verify: Adaptive Conditioning for Reference-Based Diffusion Super-Resolution via Implicit Reference Correlation Modeling](https://arxiv.org/pdf/2602.01864) \
 Yuan Wang, Yuhao Wan, Siming Zheng, Bo Li, Qibin Hou, Peng-Tao Jiang \
 [![arXiv](https://img.shields.io/badge/arXiv-2602.01864-b31b1b.svg)](https://arxiv.org/pdf/2602.01864)
