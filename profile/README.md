@@ -9,15 +9,20 @@
 
 ## 🌟 项目亮点
 
-**[ECCV 2026]** [Anchoring on Reality: Breaking the Pseudo-Target Ceiling in Makeup Transfer](https://arxiv.org/abs/2606.31089) \
-Bo Wei, Xianhui Lin, Yi Dong, Zhongzhong Li, Zonghui Li, Zirui Wang, Jiachen Yang, Xing Liu, Hong Gu, Xiaoming Li, Wangmeng Zuo  \
-[![arXiv](https://img.shields.io/badge/arXiv-2606.31089-b31b1b.svg)](https://arxiv.org/abs/2606.31089)
-[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/csbowei/ART)
-
 **[ECCV 2026]** [Anchor Forcing: Anchor Memory and Tri-Region RoPE for Interactive Streaming Video Diffusion](https://arxiv.org/abs/2603.13405) \
 Yang Yang, Tianyi Zhang, Wei Huang, Jinwei Chen, Boxi Wu, Xiaofei He, Deng Cai, Bo Li, Peng-Tao Jiang  \
 [![arXiv](https://img.shields.io/badge/arXiv-2603.13405-b31b1b.svg)](https://arxiv.org/abs/2603.13405)
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/vivoCameraResearch/Anchor-Forcing)
+
+**[ECCV 2026]** [MagicMakeup: A Region-Controllable Diffusion Transformer for High-Fidelity Makeup-Transfer](https://arxiv.org/abs/2607.20924) \
+Ziyi Wang, Siming Zheng, Yang Yang, Shusong Xu, Hao Zhang, Bo Li, Changqing Zou, Peng-Tao Jiang  \
+[![arXiv](https://img.shields.io/badge/arXiv-2607.20924-b31b1b.svg)](https://arxiv.org/abs/2607.20924)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/vivoCameraResearch/Magic-Makeup)
+
+**[ECCV 2026]** [Anchoring on Reality: Breaking the Pseudo-Target Ceiling in Makeup Transfer](https://arxiv.org/abs/2606.31089) \
+Bo Wei, Xianhui Lin, Yi Dong, Zhongzhong Li, Zonghui Li, Zirui Wang, Jiachen Yang, Xing Liu, Hong Gu, Xiaoming Li, Wangmeng Zuo  \
+[![arXiv](https://img.shields.io/badge/arXiv-2606.31089-b31b1b.svg)](https://arxiv.org/abs/2606.31089)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/csbowei/ART)
 
 **[ECCV 2026]** [JSON: Jigsaw Self-play Optimization for Normalizing Flows]() \
 Fengxiang Yang, Tianyi Zheng, Jinwei Chen, Bo Li  \
@@ -33,11 +38,6 @@ Zitong Xu, Huiyu Duan, Zhongpeng Ji, Xinyun Zhang, Yutao Liu, Xiongkuo Min, Ke G
 Zheyu Zhang, Peng-Tao Jiang, Tianyi Zheng, Jian Zhang, Jinwei Chen, Bo Li  \
 [![arXiv](https://img.shields.io/badge/arXiv-xxxxxxxxxx-b31b1b.svg)]()
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/vivoCameraResearch/GR-GRPO)
-
-**[ECCV 2026]** [MagicMakeup: A Region-Controllable Diffusion Transformer for High-Fidelity Makeup-Transfer](https://arxiv.org/abs/2607.20924) \
-Ziyi Wang, Siming Zheng, Yang Yang, Shusong Xu, Hao Zhang, Bo Li, Changqing Zou, Peng-Tao Jiang  \
-[![arXiv](https://img.shields.io/badge/arXiv-2607.20924-b31b1b.svg)](https://arxiv.org/abs/2607.20924)
-[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/vivoCameraResearch/Magic-Makeup)
 
 **[ECCV 2026]** [Fair and Faithful: A Diffusion-Enhanced Dataset and Hybrid State-Space Mamba for Face Super-Resolution]() \
 Tao Wang, Peiwen Xia, Bowen Tang, Jinwei Chen, Kaihao Zhang, Bo Li  \
@@ -59,17 +59,12 @@ Temesgen Muruts Weldengus, Binnan Liu, Fei Kou, Youwei Lyu, Jinwei Chen, Qingnan
 [![arXiv](https://img.shields.io/badge/arXiv-2602.17044-b31b1b.svg)](https://arxiv.org/abs/2602.17044)
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)]()
 
-**[ECCV 2026]** [ReInGS: Re-Initializing 3D Gaussians against Sparsity Discrepancy in Few-Shot Novel View Synthesis]() \
-Jun'ao Shen, Tian Feng, Haojie Dong, Jinkang Ji, Tianjia Shao  \
-[![arXiv](https://img.shields.io/badge/arXiv-xxxxxxxxxx-b31b1b.svg)]()
-[![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)]()
-
 **[ICML 2026]** [B-Spar: Bayesian Sparse-Reward Modeling for RL-based Image Editing](https://github.com/chan2lucky/B-Spar) \
-Shusong Xu, Peiye Liu, Yongbin Liu, Bangjie Yin, Zhaomang Sun, Zhenyu Chen, Tianyi Zheng, Peng-Tao Jiang, Jian Zhang, Yuzhao Wang, Jinwei Chen, Zhen Gu, Bo Li  \\
+Shusong Xu, Peiye Liu, Yongbin Liu, Bangjie Yin, Zhaomang Sun, Zhenyu Chen, Tianyi Zheng, Peng-Tao Jiang, Jian Zhang, Yuzhao Wang, Jinwei Chen, Zhen Gu, Bo Li  \
 [![arXiv](https://img.shields.io/badge/arXiv-xxxxxxxxxx-b31b1b.svg)]()
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/chan2lucky/B-Spar)
 
-**[CVPR 2026 oral]** [Towards Photorealistic and Efficient Bokeh Rendering via Diffusion Framework](https://arxiv.org/abs/2605.07429) \
+**[CVPR 2026 oral & best paper finalist]** [Towards Photorealistic and Efficient Bokeh Rendering via Diffusion Framework](https://arxiv.org/abs/2605.07429) \
 Linxiao Shi, Siming Zheng, Zerong Wang, Hao Zhang, Jinwei Chen, Bo Li, Shifeng Chen, Peng-Tao Jiang  \
 [![arXiv](https://img.shields.io/badge/arXiv-2605.07429-b31b1b.svg)](https://arxiv.org/abs/2605.07429)
 [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/vivoCameraResearch/MagicBokeh)
